@@ -1,0 +1,46 @@
+
+h1{
+
+     font-size:50px;
+     
+
+}
+
+.header h1{
+
+    height:200px;
+    background:#cdcdcd;
+    text-align:center;
+    padding-top:70px;
+
+}
+
+.header h3{
+
+    text-align: center;
+    display: inline-block;
+}
+
+
+    
+.button center {
+    background-color:#395e9e;
+    border: none;
+    color: white;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    bottom: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+      }
+    
+    
+  
+
+  .img{
+
+    width:230px;
+     height:230px;
+     
+  }
